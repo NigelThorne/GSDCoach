@@ -1,8 +1,13 @@
 # GSDCoach
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/GSDCoach`. To experiment with that code, run `bin/console` for an interactive prompt.
+*TODO:* 
+- In Setup... List Roles and Goals
+- Prompt the user at 5pm to update his "today" and "tomorrow" list. 
+- Every 30 mins -- process inbox into "Today|Tomorrow|Todo" 
+                -- reorder 'Today'
 
-TODO: Delete this and the text above, and describe your gem
+- Ask "What needs to happen next to drive Goal X?"
+- Throughout the day prompt the user "Are you working on xxx?"
 
 ## Installation
 
@@ -22,7 +27,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Run the server... (run.bat)
+
 
 ## Development
 
